@@ -13,6 +13,8 @@
 
 This application requires Node.js v18.17+.
 
+try fork
+
 ```bash
 git clone https://github.com/leerob/leerob.io.git
 cd leerob.io
